@@ -207,3 +207,6 @@ nav a {
     bottom: 249px;
     left: 1150px
 }
+.squares {
+    list-style-type: square;
+}
